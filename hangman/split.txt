@@ -1,0 +1,11 @@
+  // Get elements - ragu
+   // create alphabet ul-ragu
+    // Select Catagory-  vithiya
+    // Create geusses ul -  vithiya
+    // Show lives - thuva
+     // Animate man - thuva
+      // Hangman - ahilan
+      // OnClick Function -niroobana
+      // Play - abi
+      // Hint - abi
+       // Reset -ahilan
